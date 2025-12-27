@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Credits
 
-- **Developer:** Seth (Trauncy209)
+- **Developer:** (Trauncy209)
 - Built with [Fabric](https://fabricmc.net/)
 - Inspired by clients like Meteor, Wurst, and Aristois
 
