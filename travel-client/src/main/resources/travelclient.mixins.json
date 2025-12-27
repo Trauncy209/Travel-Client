@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.travelclient.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChatMixin",
+    "ClientPlayerEntityMixin",
+    "InGameHudMixin",
+    "TitleScreenMixin",
+    "WorldRenderMixin",
+    "LightmapMixin",
+    "ReachMixin",
+    "PacketMixin",
+    "ShulkerPreviewMixin",
+    "ChestOpenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
